@@ -1,7 +1,8 @@
-# Build and Deploy a Web3 Crowdfunding Platform (Kickstarter) As Your First Blockchain Application
-![Crowdfunding](https://i.ibb.co/k6pj0Qt/htum-6.png)
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+# a Web3 Blockchain Crowdfunding Platform
 
-### Launch your development career with project-based coaching on [JS Mastery Pro](https://www.jsmastery.pro).
+# With a stunning design, connected to the blockchain, metamask pairing, interaction with smart contracts, sending Ethereum through the blockchain network, writing solidity code, and the ability to create, view, and donate to crowdfunding campaigns directly through the blockchain
+
+![Alt Text](client/src/assets/readme1.png)
+![Alt Text](client/src/assets/readme2.png)
+![Alt Text](client/src/assets/readme3.png)
